@@ -15,4 +15,5 @@ All of these have been improved Efficiency & Quality by 50% reduced man hour use
 
 Below here is the pages that have been developed.
 
+![image](https://github.com/wanie-tech/smartfactory/assets/107450054/c7649ce2-d2ca-4948-bb37-d61183ca0be4)
 
